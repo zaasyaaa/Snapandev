@@ -3,3 +3,9 @@
 Folder ini berisi hasil belajar backend dasar menggunakan PHP dan MySQL (step by step). Cocok untuk pemula yang ingin memahami dasar-dasar backend development.
 
 ## Struktur Folder
+
+- 18 Agustus 2025 -
+  Echo
+  Variabel
+  Operator
+  Tipe Data 
