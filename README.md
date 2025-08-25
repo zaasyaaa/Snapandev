@@ -4,7 +4,7 @@ Folder ini berisi hasil belajar backend dasar menggunakan PHP dan MySQL (step by
 
 ## Struktur Folder
 
-- 18 Agustus 2025 - > Syntax Dasar - 
+- 18 Agustus 2025 - > Syntax Dasar 
   - Echo
   - Variabel
   - Operator
