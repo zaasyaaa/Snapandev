@@ -19,6 +19,7 @@ $kategori = ["Teknologi", "Komputer", "Pemrograman"]; // array
 // ------------------------------------------------------------
 
 // contoh penggunaan array
+
 $warna = ["Merah", "Hijau", "Biru"];
 $acak = array_rand($warna); // membuat output acak dari array
 echo "Warna favorit saya adalah " . $warna[$acak];

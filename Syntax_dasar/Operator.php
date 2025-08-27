@@ -1,5 +1,6 @@
 <?php
 // operator untuk operasi aritmatika, Digunakan untuk menghitung angka, seperti penjumlahan, pengurangan, perkalian, dan pembagian.
+
 $x = 7;
 $y = 3;
 
