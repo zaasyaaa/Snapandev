@@ -9,10 +9,14 @@ Program ini digunakan untuk menentukan nilai huruf berdasarkan skor yang didapat
 - **C** : 79 – 70
 - **D** : 69 – 60
 - **E** : di bawah 60
+- Nilai diatas 100 dianggap tidak valid.
 
 ## Cara Menggunakan
 1. Masukkan nilai (0–100).
 2. Program akan mengeluarkan nilai huruf sesuai rentang di atas.
+
+## Petunjuk pengerjaan
+- Gunakan If-Elseif-Else 
 
 ## Contoh
 - Input: `95` → Output: `A`
