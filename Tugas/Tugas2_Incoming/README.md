@@ -60,7 +60,7 @@ Implementasikan jadwal di atas menggunakan **struktur kontrol percabangan** (`if
 2. Buatlah program yang menerima **input jam** (misalnya 07:30, 18:00, dll).  
 3. Program akan menampilkan **aktivitas kakak** dengan variabel bernama `$jam`.  
    - Contoh:  
-     - Input: ` $jam = 07:15` → Output: *Kakak sedang belajar di sekolah.*  
+     - Input: `$jam = 07:15` → Output: *Kakak sedang belajar di sekolah.*  
      - Input: `$jam = 20:15` → Output: *Kakak sedang coding sebelum tidur.*  
 4. Pastikan semua kondisi **tidak saling bertabrakan** dan seluruh kegiatan penting bisa ditampilkan dengan benar.
 5. Dianjurkan untuk menggunakan komen untuk auntetisitas kode!
