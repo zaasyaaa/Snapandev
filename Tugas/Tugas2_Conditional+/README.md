@@ -65,3 +65,55 @@ Implementasikan jadwal di atas menggunakan **struktur kontrol percabangan** (`if
      - Input: `$jam = 20:15` → Output: *Kakak sedang coding sebelum tidur.*  
 4. Pastikan semua kondisi **tidak saling bertabrakan** dan seluruh kegiatan penting bisa ditampilkan dengan benar.
 5. Dianjurkan untuk menggunakan komen untuk autentisitas kode!
+
+---
+
+## 📝 Aturan Pengumpulan
+- **Jangan hapus atau edit folder teman.**  
+(Kalau tidak sengaja mengubah, PR kamu bisa ditolak.)
+- Simpan tugas hanya di folder milikmu.
+- Gunakan format folder sesuai aturan:  
+`NamaLengkap_Kelas`
+- Commit message usahakan jelas, misalnya:  
+*"Menambahkan tugas kedua - Nama_kamu"*
+
+---
+
+## Langkah Mengumpulkan Tugas
+
+### 1. **Buat Akun GitHub**
+Kalau belum punya akun GitHub:
+- Buka [https://github.com](https://github.com)
+- Klik **Sign up** dan daftar pakai email kamu.
+- Verifikasi sampai selesai.
+
+---
+
+### 2. **Fork Repository**
+- Buka halaman repository ini:  
+  `https://github.com/Regacoderyangkeren/SnapanDev/tree/main/Tugas/Tugas2_Conditional%2B`
+- Klik tombol **Fork** di pojok kanan atas.
+- Setelah itu, repository ini akan tersalin ke akun GitHub kamu sendiri.
+
+---
+
+### 3. **Buka Repository Hasil Fork**
+- Masuk ke profil GitHub kamu.
+- Cari repository bernama **Tugas2_Conditional+** (hasil fork tadi).
+- Klik repository tersebut.
+
+---
+
+### 4. **Upload Tugas di Repo hasil Fork**
+Kamu bisa langsung upload file tanpa perlu install aplikasi tambahan:
+1. Klik tombol **Add file** → **Upload files**.
+2. Buat **folder baru** dengan format:nama_kelas
+
+### 5. **Buat Pull Request (PR)**
+Pull Request artinya kamu minta supaya tugasmu dimasukkan ke repository utama kelas.
+1. Buka repository hasil fork di akun kamu.
+2. Klik tombol **Contribute** → **Open Pull Request**.
+3. Pastikan:
+- **base repository** = akun Github SnapanDev Backend (misalnya `Regacoderyangkeren/Tugas2_Conditional+`)
+- **head repository** = akun GitHub kamu (misalnya `username-kamu/Tugas2_Conditional+`)
+4. Klik **Create Pull Request**.
