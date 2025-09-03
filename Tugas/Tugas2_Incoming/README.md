@@ -22,30 +22,30 @@ Dan akhirnya, jadwal ini pun lahir.
 ---
 
 ## 🕒 Kegiatan penting kakak!
--- Kakakmu mempunyai kebiasaan dimana ia selalu mulai harinya jam 3 pagi untuk bermain HP
--- Kakakmu mulai siap siap jam 5 pagi
--- Kakakmu akan mulai berangkat pada jam 6 pagi
--- Kakakmu akan memulai KBM pada jam 7 pagi
--- Kakakmu akan mengakhiri KBM pada jam 15.30 sore
--- Kakakmu akan pulang dari sekolah jam 17.00 sore dan sampai rumah pada jam 17.30 sore
--- waktu tidur termalam Kakakmu adalah jam 23.30 malam
+- Kakakmu mempunyai kebiasaan dimana ia selalu mulai harinya jam 3 pagi untuk bermain HP
+- Kakakmu mulai siap siap jam 5 pagi
+- Kakakmu akan mulai berangkat pada jam 6 pagi
+- Kakakmu akan memulai KBM pada jam 7 pagi
+- Kakakmu akan mengakhiri KBM pada jam 15.30 sore
+- Kakakmu akan pulang dari sekolah jam 17.00 sore dan sampai rumah pada jam 17.30 sore
+- waktu tidur termalam Kakakmu adalah jam 23.30 malam
 
 ---
 
 ## 🕒 Catatan dari kakak!
--- kakak itu rajin beribadah!
--- kakak itu rajin mandi!
--- kakak itu suka sarapan
--- setelah kegiatan KBM selesai, Kakak akan mengikuti kegiatan voice yang dimulai pada 15.45
--- sebelum sampai ke rumah, kakak akan mampir ke fotokopi untuk print tugasnya
--- kakak akan menyisihkan waktu selama 1 jam untuk mengerjakan pr tanpa terputus
--- kakak akan menyisihkan waktu selama 30 menit untuk makan bersama keluarga tanpa terputus
--- kakak makan sebelum jam 8 malam
--- setelah makan kakak akan mengobrol bersama keluarga selama 20 menit
--- kakak minimal mendapatkan free time sebanyak 1 jam 30 menit, boleh terputus
--- sebelum tidur dan sesudah mengerjakan pr, kakak akan buka laptop untuk coding selama 1 jam, boleh diputus
--- kakak harus melakukan persiapan besok selama 10 menit
--- kakak tidak boleh tidur lebih dari jam 23.30 malam
+- kakak itu rajin beribadah!
+- kakak itu rajin mandi!
+- kakak itu suka sarapan
+- setelah kegiatan KBM selesai, Kakak akan mengikuti kegiatan voice yang dimulai pada 15.45
+- sebelum sampai ke rumah, kakak akan mampir ke fotokopi untuk print tugasnya
+- kakak akan menyisihkan waktu selama 1 jam untuk mengerjakan pr tanpa terputus
+- kakak akan menyisihkan waktu selama 30 menit untuk makan bersama keluarga tanpa terputus
+- kakak makan sebelum jam 8 malam
+- setelah makan kakak akan mengobrol bersama keluarga selama 20 menit
+- kakak minimal mendapatkan free time sebanyak 1 jam 30 menit, boleh terputus
+- sebelum tidur dan sesudah mengerjakan pr, kakak akan buka laptop untuk coding selama 1 jam, boleh diputus
+- kakak harus melakukan persiapan besok selama 10 menit
+- kakak tidak boleh tidur lebih dari jam 23.30 malam
 
 ---
 
