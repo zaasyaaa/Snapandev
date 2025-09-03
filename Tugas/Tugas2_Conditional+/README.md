@@ -25,6 +25,7 @@ Dan akhirnya, jadwal ini pun lahir.
 - Kakakmu mempunyai kebiasaan dimana ia selalu mulai harinya jam 3 pagi untuk bermain HP
 - Kakakmu mulai siap siap jam 5 pagi
 - Kakakmu akan mulai berangkat pada jam 6 pagi
+- Kakakmu akan sampai kesekolah pada jam 6.30 pagi
 - Kakakmu akan memulai KBM pada jam 7 pagi
 - Kakakmu akan mengakhiri KBM pada jam 15.30 sore
 - Kakakmu akan pulang dari sekolah jam 17.00 sore dan sampai rumah pada jam 17.30 sore
