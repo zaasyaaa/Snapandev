@@ -114,6 +114,6 @@ Pull Request artinya kamu minta supaya tugasmu dimasukkan ke repository utama ke
 1. Buka repository hasil fork di akun kamu.
 2. Klik tombol **Contribute** → **Open Pull Request**.
 3. Pastikan:
-- **base repository** = akun Github SnapanDev Backend (misalnya `Regacoderyangkeren/Tugas2_Conditional+`)
-- **head repository** = akun GitHub kamu (misalnya `username-kamu/Tugas2_Conditional+`)
+- **base repository** = akun Github SnapanDev Backend (misalnya `Regacoderyangkeren/Tugas2_Conditional+`
+- **head repository** = akun GitHub kamu (misalnya `username-kamu/Tugas2_Conditional+`
 4. Klik **Create Pull Request**.
