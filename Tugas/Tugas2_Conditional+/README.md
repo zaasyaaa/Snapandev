@@ -109,6 +109,8 @@ Kamu bisa langsung upload file tanpa perlu install aplikasi tambahan:
 1. Klik tombol **Add file** → **Upload files**.
 2. Buat **folder baru** dengan format:nama_kelas
 
+---
+
 ### 5. **Buat Pull Request (PR)**
 Pull Request artinya kamu minta supaya tugasmu dimasukkan ke repository utama kelas.
 1. Buka repository hasil fork di akun kamu.
