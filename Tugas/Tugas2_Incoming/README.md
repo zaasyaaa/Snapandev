@@ -45,7 +45,6 @@ Dan akhirnya, jadwal ini pun lahir.
 - kakak minimal mendapatkan free time sebanyak 1 jam 30 menit, boleh terputus
 - sebelum tidur dan sesudah mengerjakan pr, kakak akan buka laptop untuk coding selama 1 jam, boleh diputus
 - kakak harus melakukan persiapan besok selama 10 menit
-- kakak tidak boleh tidur lebih dari jam 23.30 malam
 
 ---
 
